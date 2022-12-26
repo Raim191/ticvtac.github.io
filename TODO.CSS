@@ -1,0 +1,16 @@
+.inp{
+    text-align: center;
+    
+}
+
+.he{
+    background-color:#2E86C1;
+    width:200px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top:2%;
+    height:30px;
+    line-height: 200%;
+    padding-left:3%;
+    color:#CB4335;
+}
